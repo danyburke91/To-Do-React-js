@@ -2,13 +2,11 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  padding-top: 12rem;
-  padding-left: 50rem;
-  background-color: #66CCFF;
+  padding-top: 18rem;
+  padding-left: 29rem;
   font-family: "Lucida Console", "Courier New", monospace;
   font-variant: small-caps;
   background-image: url(https://tse3.mm.bing.net/th?id=OIP.eDzbLsmDMpcuKbayUc8hNAHaF7&pid=Api&P=0);
-  justify-content: center;
 }
 
 #container {
@@ -21,7 +19,7 @@ body {
   padding: 10px;
   margin: 10px;
   font-size: 15px;
-  border: 3px solid #8011f0;
+  border: 3px solid #f011d6;
   width: 250px;
   color: #8011f0;
 }
@@ -41,9 +39,9 @@ body {
 
 h1{
   color: aliceblue;
-  font-size: 50px;
+  font-size: 35px;
   padding-bottom: 10px;
-  padding-right: 50rem;
+  padding-right: 30rem;
   text-align: center;
 }
 
